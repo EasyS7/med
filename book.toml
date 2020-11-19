@@ -3,7 +3,7 @@ authors = ["Ivo Zarkov"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Medical Tree"
+title = "Medical Summary"
 
 [output.html]
 default-theme = "rust"
