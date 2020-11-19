@@ -1,0 +1,16 @@
+[book]
+authors = ["Ivo Zarkov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Medical Tree"
+
+[output.html]
+default-theme = "rust"
+additional-css = ["src/custom.css"]
+git-repository-url = "https://github.com/easys7/med"
+site-url = "https://easys7.github.io/med"
+
+[output.html.fold]
+enable = true
+level = 0
